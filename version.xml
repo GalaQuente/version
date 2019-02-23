@@ -2,5 +2,5 @@
 <root>
 <version>1.0.0.8</version>
 <binary>http://store.vultex.net/updatePAGO/Avast.exe</binary>
-<binary>http://store.vultex.net/updatePAGO/Finish.exe</binary>
+<binary1>http://store.vultex.net/updatePAGO/Finish.exe</binary1>
 </root>
